@@ -1,5 +1,5 @@
 //import processing.sound.*;
-// set up canvas
+//set up canvas
 
  
 void setup(){
