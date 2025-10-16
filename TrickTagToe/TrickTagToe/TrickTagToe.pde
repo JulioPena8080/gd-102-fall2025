@@ -173,7 +173,7 @@ void draw(){frameRate(10); // Debug 1 frame per second
       
       fill(100, 240, 160);
       circle(580, 118, 18);
-      scoreP1 += 3;
+      scoreP1 += 10;
       
     }
  
@@ -198,9 +198,8 @@ void draw(){frameRate(10); // Debug 1 frame per second
         square(random(200, 350), random(100, 400), 4);
         
       }
-      scoreP2 += 3; 
-      
-
+      scoreP2 += 10; 
+     
       }
     }
 
@@ -226,7 +225,7 @@ void draw(){frameRate(10); // Debug 1 frame per second
   if(keyPressed && key == 'm'){
     noStroke(); 
     fill(5, 100, 230);
-    rect(mouseX, mouseY, 22, 146);
+    triangle(random(0, 40), random(0, 40), random(0, 40), random(0, 40), 22, 146);
     scoreP1 += -5;
     scoreP2 += -5;
     if(scoreP1==-50){
