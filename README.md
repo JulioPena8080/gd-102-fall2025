@@ -1,5 +1,5 @@
-Download ThyTickDot in itch.io, here is the link: https://game-structure.itch.io/thytickdot 
+Download ThyTickDot from itch.io, here is the link: https://game-structure.itch.io/thytickdot 
 
-Instagram: @game_structure90 
+My Instagram: @game_structure90 
 
 
